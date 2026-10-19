@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 0.8.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-19 00:35+0000\n"
+"POT-Creation-Date: 2026-10-19 17:37+0000\n"
 "PO-Revision-Date: 2025-12-04 08:13+0300\n"
 "Last-Translator: <gulmagomedovruslan77@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -1895,11 +1895,11 @@ msgstr "Не удалось скопировать в буфер обмена."
 
 #. TRANSLATORS: Announced after Select All, from the Edit menu or with Ctrl+A. The %d placeholder is replaced with the number of characters in the document. Plural form is chosen by that count.
 #, fuzzy
-msgid "Selected %d character."
-msgid_plural "Selected %d characters."
-msgstr[0] "Выделен %d символ."
-msgstr[1] "Выделено %d символа."
-msgstr[2] "Выделено %d символов."
+msgid "%d character selected."
+msgid_plural "%d characters selected."
+msgstr[0] "%d символ выбран."
+msgstr[1] "%d символа выбрана."
+msgstr[2] "%d символов выбрано."
 
 #. TRANSLATORS: Announced when toggling word wrap; the message reflects the new state
 #, fuzzy
@@ -2759,11 +2759,11 @@ msgstr "Перейти к процентом"
 
 #. TRANSLATORS: Announced after text is copied, with Ctrl+C or from the marked beginning of a selection. The %d placeholder is replaced with the number of characters copied. Plural form is chosen by that count.
 #, fuzzy
-msgid "Copied %d character."
-msgid_plural "Copied %d characters."
-msgstr[0] "Скопирован %d символ."
-msgstr[1] "Скопировано %d символа."
-msgstr[2] "Скопировано %d символов."
+msgid "%d character copied."
+msgid_plural "%d characters copied."
+msgstr[0] "%d символ скопирован."
+msgstr[1] "%d символа скопировано."
+msgstr[2] "%d символов скопировано."
 
 #. TRANSLATORS: Announced when the reader marks the beginning of a selection to copy from later.
 #, fuzzy
@@ -5408,6 +5408,20 @@ msgstr "1.5\\u{00d7}"
 #, fuzzy
 msgid "Progress"
 msgstr "Прогресс"
+
+#, fuzzy
+#~ msgid "Selected %d character."
+#~ msgid_plural "Selected %d characters."
+#~ msgstr[0] "Выделен %d символ."
+#~ msgstr[1] "Выделено %d символа."
+#~ msgstr[2] "Выделено %d символов."
+
+#, fuzzy
+#~ msgid "Copied %d character."
+#~ msgid_plural "Copied %d characters."
+#~ msgstr[0] "Скопирован %d символ."
+#~ msgstr[1] "Скопировано %d символа."
+#~ msgstr[2] "Скопировано %d символов."
 
 #, fuzzy
 #~ msgid "&Undo\tCtrl+Z"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-19 00:35+0000\n"
+"POT-Creation-Date: 2026-10-19 17:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1627,8 +1627,8 @@ msgid "Could not copy to the clipboard."
 msgstr ""
 
 #. TRANSLATORS: Announced after Select All, from the Edit menu or with Ctrl+A. The %d placeholder is replaced with the number of characters in the document. Plural form is chosen by that count.
-msgid "Selected %d character."
-msgid_plural "Selected %d characters."
+msgid "%d character selected."
+msgid_plural "%d characters selected."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -2387,8 +2387,8 @@ msgid "Go to percent"
 msgstr ""
 
 #. TRANSLATORS: Announced after text is copied, with Ctrl+C or from the marked beginning of a selection. The %d placeholder is replaced with the number of characters copied. Plural form is chosen by that count.
-msgid "Copied %d character."
-msgid_plural "Copied %d characters."
+msgid "%d character copied."
+msgid_plural "%d characters copied."
 msgstr[0] ""
 msgstr[1] ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 0.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-19 00:35+0000\n"
+"POT-Creation-Date: 2026-10-19 17:37+0000\n"
 "PO-Revision-Date: 2026-09-24 20:59+0200\n"
 "Last-Translator: Steffen Schultz <steffenschultz@mailbox.org>\n"
 "Language-Team: Steffen Schultz <steffenschultz@mailbox.org>\n"
@@ -1679,11 +1679,10 @@ msgid "Could not copy to the clipboard."
 msgstr "Das Kopieren in die Zwischenablage ist fehlgeschlagen."
 
 #. TRANSLATORS: Announced after Select All, from the Edit menu or with Ctrl+A. The %d placeholder is replaced with the number of characters in the document. Plural form is chosen by that count.
-#, fuzzy
-msgid "Selected %d character."
-msgid_plural "Selected %d characters."
-msgstr[0] "Selected %d character."
-msgstr[1] "Selected %d characters."
+msgid "%d character selected."
+msgid_plural "%d characters selected."
+msgstr[0] ""
+msgstr[1] ""
 
 #. TRANSLATORS: Announced when toggling word wrap; the message reflects the new state
 msgid "Word wrap on."
@@ -2457,11 +2456,10 @@ msgid "Go to percent"
 msgstr "Gehe zu Prozent"
 
 #. TRANSLATORS: Announced after text is copied, with Ctrl+C or from the marked beginning of a selection. The %d placeholder is replaced with the number of characters copied. Plural form is chosen by that count.
-#, fuzzy
-msgid "Copied %d character."
-msgid_plural "Copied %d characters."
-msgstr[0] "Copied %d character."
-msgstr[1] "Copied %d characters."
+msgid "%d character copied."
+msgid_plural "%d characters copied."
+msgstr[0] ""
+msgstr[1] ""
 
 #. TRANSLATORS: Announced when the reader marks the beginning of a selection to copy from later.
 msgid "Beginning of selection set."
@@ -4692,6 +4690,18 @@ msgstr "1.5\\u{00d7}"
 #, fuzzy
 msgid "Progress"
 msgstr "Fortschritt"
+
+#, fuzzy
+#~ msgid "Selected %d character."
+#~ msgid_plural "Selected %d characters."
+#~ msgstr[0] "Selected %d character."
+#~ msgstr[1] "Selected %d characters."
+
+#, fuzzy
+#~ msgid "Copied %d character."
+#~ msgid_plural "Copied %d characters."
+#~ msgstr[0] "Copied %d character."
+#~ msgstr[1] "Copied %d characters."
 
 #~ msgid "&Undo\tCtrl+Z"
 #~ msgstr "&Rückgängig\tCtrl+Z"

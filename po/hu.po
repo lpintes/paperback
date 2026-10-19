@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-19 00:35+0000\n"
+"POT-Creation-Date: 2026-10-19 17:37+0000\n"
 "PO-Revision-Date: 2026-10-17 12:00+0200\n"
 "Last-Translator: Torma Zsolt <torma.zsolt@gmail.com>\n"
 "Language-Team: Torma Zsolt <torma.zsolt@gmail.com>\n"
@@ -1628,8 +1628,9 @@ msgid "Could not copy to the clipboard."
 msgstr "Nem sikerült a vágólapra másolni."
 
 #. TRANSLATORS: Announced after Select All, from the Edit menu or with Ctrl+A. The %d placeholder is replaced with the number of characters in the document. Plural form is chosen by that count.
-msgid "Selected %d character."
-msgid_plural "Selected %d characters."
+#, fuzzy
+msgid "%d character selected."
+msgid_plural "%d characters selected."
 msgstr[0] "%d karakter kijelölve."
 msgstr[1] "%d karakter kijelölve."
 
@@ -2393,8 +2394,9 @@ msgid "Go to percent"
 msgstr "Ugrás adott százalékra"
 
 #. TRANSLATORS: Announced after text is copied, with Ctrl+C or from the marked beginning of a selection. The %d placeholder is replaced with the number of characters copied. Plural form is chosen by that count.
-msgid "Copied %d character."
-msgid_plural "Copied %d characters."
+#, fuzzy
+msgid "%d character copied."
+msgid_plural "%d characters copied."
 msgstr[0] "%d karakter másolva."
 msgstr[1] "%d karakter másolva."
 
@@ -4568,3 +4570,13 @@ msgstr "1,5\\u{00d7}"
 #, fuzzy
 msgid "Progress"
 msgstr "Olvasási pozíció"
+
+#~ msgid "Selected %d character."
+#~ msgid_plural "Selected %d characters."
+#~ msgstr[0] "%d karakter kijelölve."
+#~ msgstr[1] "%d karakter kijelölve."
+
+#~ msgid "Copied %d character."
+#~ msgid_plural "Copied %d characters."
+#~ msgstr[0] "%d karakter másolva."
+#~ msgstr[1] "%d karakter másolva."

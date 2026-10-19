@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 0.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-19 00:35+0000\n"
+"POT-Creation-Date: 2026-10-19 17:37+0000\n"
 "PO-Revision-Date: 2026-02-26 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1887,10 +1887,10 @@ msgstr "Impossible de copier dans le presse-papiers."
 
 #. TRANSLATORS: Announced after Select All, from the Edit menu or with Ctrl+A. The %d placeholder is replaced with the number of characters in the document. Plural form is chosen by that count.
 #, fuzzy
-msgid "Selected %d character."
-msgid_plural "Selected %d characters."
-msgstr[0] "Caractère sélectionné : %d."
-msgstr[1] "Caractères sélectionnés : %d."
+msgid "%d character selected."
+msgid_plural "%d characters selected."
+msgstr[0] "%d caractère sélectionné."
+msgstr[1] "  %d caractères sélectionnés."
 
 #. TRANSLATORS: Announced when toggling word wrap; the message reflects the new state
 #, fuzzy
@@ -2735,10 +2735,10 @@ msgstr "Aller au pourcentage"
 
 #. TRANSLATORS: Announced after text is copied, with Ctrl+C or from the marked beginning of a selection. The %d placeholder is replaced with the number of characters copied. Plural form is chosen by that count.
 #, fuzzy
-msgid "Copied %d character."
-msgid_plural "Copied %d characters."
-msgstr[0] "Copié %d caractère."
-msgstr[1] "Copié %d caractères."
+msgid "%d character copied."
+msgid_plural "%d characters copied."
+msgstr[0] "%d caractère copié."
+msgstr[1] "%d caractères copiés."
 
 #. TRANSLATORS: Announced when the reader marks the beginning of a selection to copy from later.
 #, fuzzy
@@ -5382,6 +5382,18 @@ msgstr "1,5\\u{00d7}"
 #, fuzzy
 msgid "Progress"
 msgstr "Progression"
+
+#, fuzzy
+#~ msgid "Selected %d character."
+#~ msgid_plural "Selected %d characters."
+#~ msgstr[0] "Caractère sélectionné : %d."
+#~ msgstr[1] "Caractères sélectionnés : %d."
+
+#, fuzzy
+#~ msgid "Copied %d character."
+#~ msgid_plural "Copied %d characters."
+#~ msgstr[0] "Copié %d caractère."
+#~ msgstr[1] "Copié %d caractères."
 
 #, fuzzy
 #~ msgid "&Undo\tCtrl+Z"
